@@ -15,6 +15,6 @@
 ## Data dos Exercícios :date:
 
 Lista01 - Funções Literais e Arrow Functions e Introdução a JS Arrays Interaction Methods **(21/02/2024)**  
-Lista02 - Array Interaction Methods **(06/03/2024)**
-Lista03 - Web API´s **(13/03/2024)**
-Lista04(Trabalho) - Web API (filmes populares - TMDB) **(20/03/2024)**
+Lista02 - Array Interaction Methods **(06/03/2024)**  
+Lista03 - Web API´s **(13/03/2024)**  
+Lista04(Trabalho) - Web API (filmes populares - TMDB) **(20/03/2024)**  
