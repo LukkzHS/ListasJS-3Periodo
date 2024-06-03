@@ -1,5 +1,5 @@
 window.addEventListener('load', () => {
-    const apiKey = '843e4b59da758cc12f1ba5ff1276234f';
+    const apiKey = 'a7546ffd6b5f5b4f7972927058e6f176';
     const apiUrlGenres = `https://api.themoviedb.org/3/genre/movie/list?api_key=${apiKey}&language=pt-BR`;
 
     fetch(apiUrlGenres)
@@ -18,7 +18,7 @@ window.addEventListener('load', () => {
 });
 
 function fetchPopularMovies(genres) {
-    const apiKey = '843e4b59da758cc12f1ba5ff1276234f';
+    const apiKey = 'a7546ffd6b5f5b4f7972927058e6f176';
     const apiUrl = `https://api.themoviedb.org/3/movie/popular?api_key=${apiKey}&language=pt-BR`;
 
     fetch(apiUrl)
